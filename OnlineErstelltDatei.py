@@ -1,1 +1,1 @@
-Hallp Welt
+print "Hallo Welt"
